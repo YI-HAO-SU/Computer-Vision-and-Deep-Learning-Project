@@ -1,2 +1,3 @@
 # Computer-Vision-and-Deep-Learning-Project
-"The system integrates computer vision functionalities such as camera calibration, augmented reality, stereo disparity mapping, SIFT, and deep learning. It employs VGG19 with Batch Normalization for training a CIFAR-10 classifier, ensuring robust performance in diverse tasks.
+"The proposed system encompasses a comprehensive computer vision application with multifaceted capabilities, including camera calibration, augmented reality implementation, generation of stereo disparity maps, and the utilization of Scale-Invariant Feature Transform (SIFT). Additionally, the system involves deep learning tasks, specifically the training of a CIFAR-10 classifier. For this purpose, the well-established VGG19 architecture, enhanced with Batch Normalization (BN), is employed as the underlying framework for robust model training and classification tasks.
+
